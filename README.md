@@ -10,3 +10,8 @@ This notebook walks you through one of the most popular Udacity projects across 
 * Matplotlib
 * PIL
 ## Files
+* bottleneck_features: Contains the pre-trained models.
+* images: Images used in the notebook.
+* saved_models: Your trained models after choosing the best model.
+* test_images: Images used to test the result of the model.
+* dog_app.ipynb: The notebook containing the application
