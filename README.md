@@ -1,6 +1,8 @@
 # Dog breeds classification
 This notebook walks you through one of the most popular Udacity projects across machine learning and artificial intellegence nanodegree programs. The goal is to classify images of dogs according to their breed.
 
+Read about it in this blog: https://medium.com/@mohannad.f.almalki/dog-breeds-classification-using-convolutional-layers-8bd2900d76e8
+
 ## Libraries used
 Numpy
 Keras
